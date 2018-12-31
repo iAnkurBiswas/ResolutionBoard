@@ -32,9 +32,9 @@ This year my resolution is that I will work on atleast 5 open source projects.
 ## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-0%25-red.svg)
 This year my resolution is that I will travel to 3 new places.
 
-- [ ] Place 1
-- [ ] Place 2
-- [ ] Place 3
+- [ ] [Kasol](https://www.google.com/search?q=Kasol)
+- [ ] [Lahaul-Spiti](https://www.google.com/search?q=Lahaul-Spiti)
+- [ ] [Manali](https://www.google.com/search?q=Manali)
 
 ## Resolution 4 🤝 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 This year my resolution is that I will learn atleast 3 new skills.
